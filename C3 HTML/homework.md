@@ -44,6 +44,36 @@ Una vez tengas creado tu archivo, sea manualmente o utilizando atajos, escribe l
    </head>
    <body>
       <!-- Contenido de la página va aquí-->
+      <header>
+         <nav>
+            <ul>
+               <li><a href=""> INICIO </a></li>
+               <li><a href=""> CONTACTOS </a></li>
+            <ul>  
+         </nav>
+      </header>
+
+      <main> 
+         <div>
+            <h1> TITULO PRINCIPAL </h1>
+            <img src="" alt="imagen principal">
+         </div>   
+      </main>
+
+      <footer>
+         <div>
+            <a href="" target="_blank">
+                <img src="">
+            </a>
+            <a href="" target="_blank">
+                <img src="">
+            </a>
+            <a href="" target="_blank">
+                <img src="">
+            </a>
+         </div>
+      </footer>
+
    </body>
 </html>
 ```
